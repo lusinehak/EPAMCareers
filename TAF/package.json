@@ -1,0 +1,10 @@
+{
+    "name": "epam-careers-ui-tests",
+    "version": "0.0.1",
+    "devDependencies": {
+      "agent-js-jasmine": "3.0.0",
+      "jasmine-reporters": "2.3.0",
+      "protractor": "5.3.0",
+      "protractor-jasmine2-html-reporter": "0.0.7"
+    }
+  }

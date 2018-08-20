@@ -1,0 +1,19 @@
+Open Epam career page.
+Make sure that the page is opened.
+Make sure that the search form is displayed.
+Type 'design' keyword in 'Keyword or job id' field.
+Select Belgium/Antwerp in 'Location' field.
+Check 'Software Engineering' checkbox in skills field.
+Make sure that the 'Sorry, your search returned no results. Please try another combination.' message is displayed.
+Clear 'Keyword or job id' field.
+Select Armenia/Yerevan in 'Location' field.
+Check 'Cloud & DevOps' checkbox in skills field.
+Make sure that the job exists.
+Make sure that job Title is 'Senior DevOps Engineer'.
+Make sure that the job location is 'Yerevan, Armenia'.
+Make sure that 'Apply' button id displayed.
+Click on 'Apply' button.
+Make sure that the job page is opened.
+Make sure that the job title is 'Senior DevOps Engineer'.
+Make sure that the job location is 'Yerevan, Armenia'.
+Make sure that the job apply form is displayed.
